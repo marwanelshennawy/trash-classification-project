@@ -10,16 +10,16 @@ By accurately classifying waste materials, this system can contribute to automat
 🚀 Features
 
 Classifies trash images into 10 categories :
-├── battery/      (755 images)
-├── biological/   (797 images)
-├── cardboard/    (1,460 images)
-├── clothes/      (4,261 images)
-├── glass/        (2,645 images)
-├── metal/        (816 images)
-├── paper/        (1,525 images)
-├── plastic/      (1,587 images)
-├── shoes/        (1,818 images)
-└── trash/        (757 images)
+├── battery
+├── biological
+├── cardboard
+├── clothes
+├── glass
+├── metal
+├── paper
+├── plastic
+├── shoes
+└── trash
 
 
 Built using Deep Learning and Computer Vision techniques

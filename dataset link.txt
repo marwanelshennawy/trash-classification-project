@@ -1,0 +1,2 @@
+Note : 
+The link in the CV is the original dataset link, the code is written based on the competition where white_glass, green_glass and brown_glass are merged into "glass" class. The link for the dataset used in the private competition is: https://drive.google.com/file/d/1dZG-sX5cYjXrhh31wqPx7_q9jVZ8Ctvy/view?usp=sharing
